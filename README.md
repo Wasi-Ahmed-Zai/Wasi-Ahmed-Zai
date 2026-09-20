@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Wasi Ahmed
 
-<!--
-**Wasi-Ahmed-Zai/Wasi-Ahmed-Zai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Engineer | Full-Stack AI Developer
 
-Here are some ideas to get you started:
+I build practical AI solutions, AI agents, MCP servers, and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Build
+
+- 🤖 AI Agents & Automation
+- 🔌 MCP Servers
+- 🐍 Python & FastAPI Applications
+- 🌐 Next.js Web Applications
+- 🧠 AI-powered Tools
+
+### 🛠️ Tech Stack
+
+**AI & Backend**
+- Python
+- FastAPI
+- OpenAI
+- OpenAI Agents SDK
+- MCP / FastMCP
+
+**Frontend**
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+**Tools**
+- Git & GitHub
+- Docker
+- Supabase
+- Vercel
+
+### 📌 Current Focus
+
+Building AI Agents, MCP Servers and AI-powered web applications.
+
+### 📂 Featured Projects
+
+- 🔌 MCP Servers
+- 🤖 AI Agents
+- 🧩 Puzzle Cam
+- 🛒 E-commerce Web Apps
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/WasiAhmedZai
+- X: https://x.com/WasiAhmedZai
+- Fiverr: https://www.fiverr.com/wasiahmedzai
+
+---
+
+🇵🇰 Pakistan | Building with AI
